@@ -1,0 +1,1316 @@
+[
+  {
+    "name": "Samsung Galaxy Z Fold6",
+    "description": "Powered by Snapdragon 8 Gen 3, 7.6 inch AMOLED display",
+    "price": 200999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03P6EUPZ9ggKdSl-XShLmOnmsbaqYK96LvQ&s",
+    "stock": 10
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "Snapdragon 8 Gen 2, 6.8 inch QHD+ AMOLED Display, 200MP camera",
+    "price": 149999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://www.bajajmall.in/emistore/media/catalog/product/s/a/samsunggalaxys23ultra256gbred_base.jpeg",
+    "stock": 15
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "description": "Exynos 1380, 6.4 inch 120Hz AMOLED Display, 5000mAh battery",
+    "price": 38999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://www.rajanandco.in/pub/media/catalog/product/cache/b2b3ac1ef1a04b817c00e4f06dc68c15/s/5/s52_1.jpg",
+    "stock": 25
+  },
+  {
+    "name": "Samsung Galaxy A14",
+    "description": "MediaTek Helio G80, 6.6 inch Full HD+ Display, 5000mAh battery",
+    "price": 14999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a146bzkgins/gallery/in-galaxy-a14-5g-sm-a146-446745-sm-a146bzkgins-539631714?$650_519_PNG$",
+    "stock": 50
+  },
+  {
+    "name": "Samsung Galaxy M34 5G",
+    "description": "Exynos 1280, 6.5 inch Full HD+ AMOLED Display, 6000mAh battery",
+    "price": 22999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m346bzbdins/gallery/in-galaxy-m34-5g-sm-m346-469618-sm-m346bzbdins-537392634?$650_519_PNG$",
+    "stock": 40
+  },
+  {
+    "name": "Samsung Galaxy S21 FE 5G",
+    "description": "Snapdragon 888, 6.41 inch AMOLED, 4500mAh battery",
+    "price": 54999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://www.91-cdn.com/hub/wp-content/uploads/2021/12/Samsung-Galaxy-S21-FE-Violet.jpg7",
+    "stock": 12
+  },
+  {
+    "name": "Samsung Galaxy Note 20 Ultra",
+    "description": "Exynos 990, 6.9 inch AMOLED Display, 108MP Camera",
+    "price": 119999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://images.fonearena.com/blog/wp-content/uploads/2020/08/Samsung-Galaxy-Note-20-Note-20-Ultra-India-price.jpg",
+    "stock": 5
+  },
+  {
+    "name": "Samsung Galaxy A23 5G",
+    "description": "Snapdragon 695, 6.6 inch 120Hz PLS LCD, 5000mAh battery",
+    "price": 22999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiX_DePMFRstEV1Di90RD0bqJq_ixxCp3KA&s",
+    "stock": 35
+  },
+  {
+    "name": "Samsung Galaxy M53 5G",
+    "description": "Dimensity 900, 6.7 inch Super AMOLED Plus, 108MP camera",
+    "price": 27999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://static.toiimg.com/thumb/msid-90907309,width-400,resizemode-4/90907309.jpg",
+    "stock": 15
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 5",
+    "description": "Snapdragon 8 Gen 2, 6.7 inch AMOLED, 3700mAh battery",
+    "price": 99999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/2/j/d/-original-imagztmgzp8ewjhn.jpeg?q=90&crop=false",
+    "stock": 18
+  },
+  {
+    "name": "Xiaomi Redmi Note 12 Pro",
+    "description": "Dimensity 1080, 120Hz AMOLED, 5000mAh battery",
+    "price": 25999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://www.sathya.in/media/90021/catalog/Stardust%20Purple1.jpg",
+    "stock": 12
+  },
+  {
+    "name": "Xiaomi Mi 11X",
+    "description": "Snapdragon 870, 6.67 inch AMOLED, 4520mAh battery",
+    "price": 29999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://www.notebookcheck.net/uploads/tx_nbc2/XiaomiMi11Pro.jpg",
+    "stock": 8
+  },
+  {
+    "name": "Xiaomi Poco F4",
+    "description": "Snapdragon 870, 120Hz AMOLED, 4500mAh battery",
+    "price": 27999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1655103819.18028494.png",
+    "stock": 14
+  },
+  {
+    "name": "Xiaomi Redmi 12 5G",
+    "description": "Snapdragon 4 Gen 1, 6.79 inch FHD+ Display, 5000mAh battery",
+    "price": 15999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://m.media-amazon.com/images/I/41B9PjF6ShL.jpg",
+    "stock": 30
+  },
+  {
+    "name": "Xiaomi Poco X5 Pro",
+    "description": "Snapdragon 778G, 6.67 inch AMOLED, 5000mAh battery",
+    "price": 23999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://www.reliancedigital.in/medias/Poco-X5-Pro-5G-Smart-Phone-493666155-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2OTY5NXxpbWFnZS9qcGVnfGltYWdlcy9oYzIvaDYyLzk5ODExNjI5NDY1OTAuanBnfGU5NjVkZTI1NTdkNTYxMzQ4OGJlYTZmMGViMzczN2MxNzgyMTY5NzNhM2ZiOWZlODA3YTg2NjgyMDZhMWM5NTQ",
+    "stock": 18
+  },
+  {
+    "name": "Xiaomi 11T Pro",
+    "description": "Snapdragon 888, 6.67 inch AMOLED, 108MP camera",
+    "price": 49999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://m.media-amazon.com/images/I/71Od5yJbohL.jpg",
+    "stock": 8
+  },
+  {
+    "name": "Xiaomi Redmi 9A",
+    "description": "MediaTek Helio G25, 6.53 inch IPS LCD, 5000mAh battery",
+    "price": 6999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/d85453a4-0d2c-41e4-b9a4-0215f05825ba_416x416.jpg",
+    "stock": 50
+  },
+  {
+    "name": "OnePlus 11 Pro",
+    "description": "Snapdragon 8 Gen 2, 6.7 inch Fluid AMOLED, 5000mAh battery",
+    "price": 79999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus-11/specs/green-img.png",
+    "stock": 14
+  },
+  {
+    "name": "OnePlus Nord 3",
+    "description": "Dimensity 9000, 6.74 inch 120Hz AMOLED, 5000mAh battery",
+    "price": 34999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://i.gadgets360cdn.com/products/large/oneplus-noprd3-db-800x600-1688565999.jpg?downsize=*:360",
+    "stock": 22
+  },
+  {
+    "name": "OnePlus 10T",
+    "description": "Snapdragon 8+ Gen 1, 6.7 inch AMOLED, 4800mAh battery",
+    "price": 49999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2022/operation/july/ovaltine/10T-Black-L.png",
+    "stock": 15
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "description": "Snapdragon 888, 6.7 inch AMOLED, 4500mAh battery",
+    "price": 64999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Morning%20mist-gallery.png",
+    "stock": 10
+  },
+  {
+    "name": "OnePlus Nord CE 3 Lite",
+    "description": "Snapdragon 695, 6.72 inch FHD+ Display, 5000mAh battery",
+    "price": 19999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/global/product/larry/specs/product-black.png",
+    "stock": 28
+  },
+  {
+    "name": "OnePlus 8T",
+    "description": "Snapdragon 865, 6.55 inch AMOLED, 4500mAh battery",
+    "price": 42999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/default/product-specs/8t-lunar.png",
+    "stock": 18
+  },
+  {
+    "name": "OnePlus 7 Pro",
+    "description": "Snapdragon 855, 6.67 inch AMOLED, 4000mAh battery",
+    "price": 49999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgHzLgX_hWMCR8pO_vHC2VF4UiC8Yq7ctTQ&s",
+    "stock": 10
+  },
+  {
+    "name": "OnePlus 9R",
+    "description": "Snapdragon 870, 6.55 inch AMOLED, 4500mAh battery",
+    "price": 39999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9r/Carbon-Black-gallery..png",
+    "stock": 5
+  },
+  {
+    "name": "OnePlus Nord N200 5G",
+    "description": "Snapdragon 480, 6.49 inch 90Hz display, 5000mAh battery",
+    "price": 16999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://s3b.cashify.in/gpro/uploads/2021/05/15101931/oneplus-n200-5g-front.png",
+    "stock": 35
+  },
+  {
+    "name": "OnePlus Nord CE 2 5G",
+    "description": "Dimensity 900, 6.43 inch AMOLED, 4500mAh battery",
+    "price": 23999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Blue.png",
+    "stock": 18
+  },
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "description": "1.4 inch Super AMOLED, 4G LTE, 450mAh battery",
+    "price": 34999.0,
+    "category": "Smart Watches",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2307/gallery/in-galaxy-watch6-r945-sm-r940nzkains-537406449?$650_519_PNG$",
+    "stock": 20
+  },
+  {
+    "name": "Samsung Galaxy Watch 5 Pro",
+    "description": "1.6 inch AMOLED, GPS, Sapphire Crystal Display, 590mAh battery",
+    "price": 44999.0,
+    "category": "Smart Watches",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2208/gallery/in-galaxy-watch5-pro-431073-sm-r925fzkainu-533190548?$650_519_PNG$",
+    "stock": 15
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "description": "1.4 inch AMOLED, 4G LTE, Heart Rate and ECG Monitor",
+    "price": 27999.0,
+    "category": "Smart Watches",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398879-sm-r870nzgainu-481111378?$650_519_PNG$",
+    "stock": 25
+  },
+  {
+    "name": "Samsung Galaxy Fit 2",
+    "description": "1.1 inch AMOLED Display, Water Resistance, Fitness Tracker",
+    "price": 4999.0,
+    "category": "Smart Watches",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/feature/122981040/levant-feature-cool-life-hacks--right-on-your-wrist-414749484?$FB_TYPE_C_JPG$",
+    "stock": 40
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "description": "Always-On Retina display, ECG App, Water Resistance, GPS",
+    "price": 45999.0,
+    "category": "Smart Watches",
+    "brand": "Apple",
+    "image": "https://www.cnet.com/a/img/resize/4eeb8038912ce4214057449360ecb9fa5e3e2e75/hub/2022/09/14/77950d98-9375-4c90-a671-39fefbdc3734/applewatchseries8-1.jpg?auto=webp&width=1200",
+    "stock": 15
+  },
+  {
+    "name": "Apple Watch SE 2",
+    "description": "1.78 inch Retina Display, Fall Detection, Water Resistant",
+    "price": 29999.0,
+    "category": "Smart Watches",
+    "brand": "Apple",
+    "image": "https://www.unboxify.in/cdn/shop/products/4697735960_63429d48-74d1-4797-b020-e52d77fc8911.jpg?v=1694962392",
+    "stock": 18
+  },
+  {
+    "name": "Apple Watch Ultra",
+    "description": "49mm Titanium case, GPS+Cellular, 36-hour battery life",
+    "price": 79999.0,
+    "category": "Smart Watches",
+    "brand": "Apple",
+    "image": "https://inventstore.in/wp-content/uploads/2023/09/3-4.webp",
+    "stock": 10
+  },
+  {
+    "name": "Xiaomi Mi Watch",
+    "description": "1.39 inch AMOLED Display, 117 Sports Modes, GPS, SpO2",
+    "price": 9999.0,
+    "category": "Smart Watches",
+    "brand": "Xiaomi",
+    "image": "https://i01.appmifile.com/webfile/globalimg/products/m/mi-watch/sec01.jpg",
+    "stock": 20
+  },
+  {
+    "name": "Xiaomi Watch S1 Pro",
+    "description": "1.47 inch AMOLED, Sapphire Glass, 14-day battery life",
+    "price": 17999.0,
+    "category": "Smart Watches",
+    "brand": "Xiaomi",
+    "image": "https://i02.appmifile.com/mi-com-product/fly-birds/m/xiaomi-watch-s1-pro/7976259a6ce94c9b4b503529482fd959.png",
+    "stock": 15
+  },
+  {
+    "name": "NoiseFit Evolve 3",
+    "description": "1.43 inch AMOLED, SpO2 & Heart Rate Monitoring, GPS",
+    "price": 5999.0,
+    "category": "Smart Watches",
+    "brand": "Noise",
+    "image": "https://www.gonoise.com/cdn/shop/products/Frame2_194103d1-f3ce-43f0-bde7-a034ee91d9fe.png?v=1676439601",
+    "stock": 35
+  },
+  {
+    "name": "NoiseFit Active 2",
+    "description": "1.28 inch IPS LCD, 24-hour Heart Rate Monitor, Water Resistant",
+    "price": 3999.0,
+    "category": "Smart Watches",
+    "brand": "Noise",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/smartwatch/h/n/t/-original-imagzngx6gasgfah.jpeg?q=90&crop=false",
+    "stock": 45
+  },
+  {
+    "name": "Amazfit Bip U Pro",
+    "description": "1.43 inch LCD Display, GPS, SpO2, Sleep Monitoring",
+    "price": 4999.0,
+    "category": "Smart Watches",
+    "brand": "Amazfit",
+    "image": "https://ucarecdn.com/0148e8ff-2cf8-4a6e-b9b6-c3517d3c0f54/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+    "stock": 30
+  },
+  {
+    "name": "Amazfit GTR 3 Pro",
+    "description": "1.45 inch AMOLED, 12-day battery, Alexa Built-in",
+    "price": 13999.0,
+    "category": "Smart Watches",
+    "brand": "Amazfit",
+    "image": "https://ucarecdn.com/c3447e3c-55f1-45ec-abf7-53e1cdba6428/-/format/auto/-/preview/3000x3000/-/quality/lighter/GTR3%20PRO-PC-19.jpg",
+    "stock": 20
+  },
+  {
+    "name": "Fire-Boltt Ring 3",
+    "description": "1.8 inch LCD, Bluetooth Calling, Blood Oxygen Monitoring",
+    "price": 4999.0,
+    "category": "Smart Watches",
+    "brand": "Fire boltt",
+    "image": "https://m.media-amazon.com/images/I/615gqkZpbFL._AC_UF1000,1000_QL80_.jpg",
+    "stock": 40
+  },
+  {
+    "name": "Fire-Boltt Invincible Plus",
+    "description": "1.39 inch AMOLED, Bluetooth Calling, SpO2 Monitoring",
+    "price": 6999.0,
+    "category": "Smart Watches",
+    "brand": "Fire boltt",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg9UV5lFAkDMbnRYn1nwoMD_TaLcudXtTXCQ&s",
+    "stock": 30
+  },
+  {
+    "name": "Samsung Galaxy Tab S9",
+    "description": "12.4 inch Super AMOLED, Snapdragon 8 Gen 2, 10090mAh battery",
+    "price": 85999.0,
+    "category": "Tablets",
+    "brand": "Samsung",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYgu7YG8FiPt9J4b-A5392EEGIIW_yKxtIIA&s",
+    "stock": 20
+  },
+  {
+    "name": "Samsung Galaxy Tab A8",
+    "description": "10.5 inch TFT display, Unisoc T618, 7040mAh battery",
+    "price": 19999.0,
+    "category": "Tablets",
+    "brand": "Samsung",
+    "image": "https://img.global.news.samsung.com/in/wp-content/uploads/2022/01/Tab-A8_infographic.jpg",
+    "stock": 35
+  },
+  {
+    "name": "Apple iPad Pro 12.9",
+    "description": "M2 Chip, 12.9 inch Liquid Retina XDR Display, 2TB storage",
+    "price": 179999.0,
+    "category": "Tablets",
+    "brand": "Apple",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHELRqmaKq61TA42p9wlPqbMqVuo-EcyeplQ&s",
+    "stock": 18
+  },
+  {
+    "name": "Xiaomi Pad 5",
+    "description": "Snapdragon 860, 11 inch WQHD+ Display, 8720mAh battery",
+    "price": 29999.0,
+    "category": "Tablets",
+    "brand": "Xiaomi",
+    "image": "https://m.media-amazon.com/images/I/31jUKdJdjHL.jpg",
+    "stock": 25
+  },
+  {
+    "name": "OnePlus Pad",
+    "description": "Dimensity 9000, 11.61 inch 144Hz LCD, 9510mAh battery",
+    "price": 37999.0,
+    "category": "Tablets",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/pad/pad-specs.png",
+    "stock": 12
+  },
+  {
+    "name": "realme Pad X",
+    "description": "Snapdragon 695, 10.95 inch WUXGA+ Display, 8340mAh battery",
+    "price": 19999.0,
+    "category": "Tablets",
+    "brand": "realme",
+    "image": "https://www.unboxify.in/cdn/shop/files/614ofbAkWxL._SL1500_e72a9742-5cf3-4ba1-81f8-2b69b3099081.jpg?v=1686300704",
+    "stock": 28
+  },
+  {
+    "name": "OPPO Pad Air",
+    "description": "Snapdragon 680, 10.36 inch 2K Display, 7100mAh battery",
+    "price": 17999.0,
+    "category": "Tablets",
+    "brand": "OPPO",
+    "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/18/ZVxpLmErt3P9wRVo.png?x-amz-process=image/format,webp/quality,Q_80",
+    "stock": 22
+  },
+  {
+    "name": "VIVO Pad 2",
+    "description": "Dimensity 9000, 12.1 inch 2.8K Display, 10000mAh battery",
+    "price": 49999.0,
+    "category": "Tablets",
+    "brand": "VIVO",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3j23FfDZAXWlOHwInoaBN-NY9MV03mwSegg&s",
+    "stock": 10
+  },
+  {
+    "name": "Motorola Moto Tab G70",
+    "description": "Helio G90T, 11 inch 2K display, 7700mAh battery",
+    "price": 25999.0,
+    "category": "Tablets",
+    "brand": "Motorola",
+    "image": "https://motorolain.vtexassets.com/arquivos/ids/156979-800-auto?width=800&height=auto&aspect=true",
+    "stock": 15
+  },
+  {
+    "name": "Lenovo ThinkCentre M70",
+    "description": "Intel Core i5 12th Gen, 8GB RAM, 1TB HDD, Windows 11",
+    "price": 48999.0,
+    "category": "Desktops",
+    "brand": "Lenovo",
+    "image": "https://p4-ofp.static.pub/fes/cms/2022/02/18/dpoajdtypjuukb4p5b8ro4ztf7bb2t120659.jpg",
+    "stock": 20
+  },
+  {
+    "name": "Lenovo IdeaCentre AIO 3",
+    "description": "Ryzen 5 4500U, 8GB RAM, 256GB SSD, 23.8 inch Full HD",
+    "price": 39999.0,
+    "category": "Desktops",
+    "brand": "Lenovo",
+    "image": "https://m.media-amazon.com/images/I/81XxfD6a3PL.jpg",
+    "stock": 25
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "description": "Apple M2 Chip, 13.6 inch Retina Display, 512GB SSD, 8GB RAM",
+    "price": 129999.0,
+    "category": "Laptops",
+    "brand": "Apple",
+    "image": "https://www.designinfo.in/wp-content/uploads/2023/10/Apple-13.6-MacBook-Air-M2-Midnight-3.webp",
+    "stock": 15
+  },
+  {
+    "name": "Apple MacBook Pro M2",
+    "description": "Apple M2 Chip, 14 inch Liquid Retina XDR, 1TB SSD, 16GB RAM",
+    "price": 199999.0,
+    "category": "Laptops",
+    "brand": "Apple",
+    "image": "https://quicktech.in/cdn/shop/files/6_6fe0687c-efc7-47e5-8426-53692367fe92.jpg?v=1696072875",
+    "stock": 10
+  },
+  {
+    "name": "Dell XPS 13 Plus",
+    "description": "Intel Core i7 12th Gen, 13.4 inch UHD+ Touch, 16GB RAM, 1TB SSD",
+    "price": 169999.0,
+    "category": "Laptops",
+    "brand": "Dell",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSdvsPEOklY2RjYzFgwg9qd8fIwKQXSKQ-Q&s",
+    "stock": 12
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "description": "Intel Core i5 11th Gen, 15.6 inch FHD, 512GB SSD, 8GB RAM",
+    "price": 59999.0,
+    "category": "Laptops",
+    "brand": "Dell",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbazlm4Q_3fhVUFmdlzcnVjYH54K8LXvilbg&s",
+    "stock": 25
+  },
+  {
+    "name": "HP Pavilion Aero 13",
+    "description": "Ryzen 7 5800U, 13.3 inch WUXGA, 16GB RAM, 512GB SSD",
+    "price": 74999.0,
+    "category": "Laptops",
+    "brand": "HP",
+    "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/d73de6a7-a4b5-44f7-8897-71011e84f58f23120946_416x416.jpg",
+    "stock": 18
+  },
+  {
+    "name": "HP Spectre x360",
+    "description": "Intel Core i7 12th Gen, 13.5 inch OLED, 16GB RAM, 1TB SSD",
+    "price": 139999.0,
+    "category": "Laptops",
+    "brand": "HP",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8j8oTSlpR4pRyR-KDmcSqCSZnQbCv57cesQ&s",
+    "stock": 10
+  },
+  {
+    "name": "Acer Predator Helios 300",
+    "description": "Intel Core i7 12th Gen, 15.6 inch QHD 165Hz, 1TB SSD, 16GB RAM",
+    "price": 139999.0,
+    "category": "Laptops",
+    "brand": "Acer",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/ksgehzk0/computer/r/c/k/predator-helios-300-gaming-laptop-acer-original-imag6yjdmwdrksyn.jpeg?q=90&crop=false",
+    "stock": 20
+  },
+  {
+    "name": "Acer Swift 3",
+    "description": "Ryzen 5 5500U, 14 inch FHD, 8GB RAM, 512GB SSD",
+    "price": 49999.0,
+    "category": "Laptops",
+    "brand": "Acer",
+    "image": "https://ohlocal-media.s3.amazonaws.com/media/LA109258AC.jpg",
+    "stock": 25
+  },
+  {
+    "name": "Asus Zenbook 14 OLED",
+    "description": "Ryzen 7 5800H, 14 inch 2.8K OLED, 16GB RAM, 1TB SSD",
+    "price": 89999.0,
+    "category": "Laptops",
+    "brand": "Asus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGHF5Z6EZB0rBUkkucDHgwivkHDS9SDnUdkw&s",
+    "stock": 15
+  },
+  {
+    "name": "Asus ROG Strix G15",
+    "description": "Ryzen 9 5900HX, 15.6 inch FHD 300Hz, 16GB RAM, 1TB SSD",
+    "price": 139999.0,
+    "category": "Laptops",
+    "brand": "Asus",
+    "image": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/c13a9bc1-c937-11eb-9fe2-eefcb0b37132",
+    "stock": 12
+  },
+  {
+    "name": "Lenovo Legion 5 Pro",
+    "description": "Ryzen 7 5800H, 16 inch QHD, 16GB RAM, 1TB SSD, RTX 3070",
+    "price": 149999.0,
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "image": "https://p4-ofp.static.pub//fes/cms/2024/09/19/9mi4xh3z07ddp4jhxwyadcf0mkl15v972949.png",
+    "stock": 18
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 5",
+    "description": "Intel Core i5 12th Gen, 15.6 inch FHD, 8GB RAM, 512GB SSD",
+    "price": 67999.0,
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "image": "https://www.reliancedigital.in/medias/Lenovo-Ideapad-Slim-5-Laptop-494352297-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1NDI5MXxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaDhjLzEwMTA0MzYyNzI5NTAyLmpwZ3wwY2UwM2JmMWEzNGE2ZWE4NDY5YTIxMWFjYTMxYWUyNGYwYzAxYzYzNDg3OGMzYmYxYWExNjFkYmNhYzNmZGY2",
+    "stock": 20
+  },
+  {
+    "name": "Motorola ThinkPad Z13",
+    "description": "Ryzen 7 PRO 6850U, 13.3 inch OLED, 16GB RAM, 1TB SSD",
+    "price": 159999.0,
+    "category": "Laptops",
+    "brand": "Motorola",
+    "image": "https://p1-ofp.static.pub/fes/cms/2022/04/29/sayo63qd1resd1aik6hwpsspi8551h635339.png",
+    "stock": 10
+  },
+  {
+    "name": "Sony VAIO Z",
+    "description": "Intel Core i7 11th Gen, 14 inch 4K UHD, 16GB RAM, 1TB SSD",
+    "price": 249999.0,
+    "category": "Laptops",
+    "brand": "Sony",
+    "image": "https://m.media-amazon.com/images/I/51xMCABYFjS.jpg",
+    "stock": 5
+  },
+  {
+    "name": "Galaxy Z Fold6 (Special Edition)",
+    "description": "Powered by Galaxy AI, Snapdragon 8 Gen 3 for Galaxy, 19.32 cm QXGA+ Dynamic AMOLED 2X Display",
+    "price": 200999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-f956bakgins/gallery/in-galaxy-z-fold6-f956-sm-f956bakgins-thumb-542630410?$360_360_PNG$",
+    "stock": 10
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "Snapdragon 8 Gen 2, 6.8-inch QHD+ AMOLED Display, 200MP camera",
+    "price": 149999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://m.media-amazon.com/images/I/51AJymISsfL.jpg",
+    "stock": 15
+  },
+  {
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "description": "14.6 inch AMOLED display, Snapdragon 8 Gen 2, 11200mAh battery",
+    "price": 129999.0,
+    "category": "Tablets",
+    "brand": "Samsung",
+    "image": "https://m.media-amazon.com/images/I/71Ky1Jx1pnL.jpg",
+    "stock": 12
+  },
+  {
+    "name": "Samsung Galaxy Book 3 Pro",
+    "description": "13th Gen Intel i7, 16GB RAM, 1TB SSD, 15.6-inch AMOLED Display",
+    "price": 189999.0,
+    "category": "Laptops",
+    "brand": "Samsung",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiQ6OamAWmM0yinw_9QJF3hfPqxesh62kGmA&s",
+    "stock": 8
+  },
+  {
+    "name": "Xiaomi Mi 13 Pro",
+    "description": "Snapdragon 8 Gen 2, 50MP Triple Camera, 6.73 inch AMOLED display",
+    "price": 84999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9Jz79QNnKMTlsLjZfeHlWTVdt1kEDzB5mA&s",
+    "stock": 18
+  },
+  {
+    "name": "Xiaomi Redmi Note 12 Pro",
+    "description": "Dimensity 1080, 120Hz AMOLED, 5000mAh battery",
+    "price": 25999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSQvyeA_kqi3qMxrHsraL7jXOrsYWrBmI-g&s",
+    "stock": 25
+  },
+  {
+    "name": "Xiaomi Pad 6",
+    "description": "Snapdragon 870, 11 inch 120Hz Display, 8720mAh battery",
+    "price": 29999.0,
+    "category": "Tablets",
+    "brand": "Xiaomi",
+    "image": "https://i03.appmifile.com/975_item_in/12/06/2023/78d6330c59f4362ec9acee419592968c!800x800!85.jpg",
+    "stock": 20
+  },
+  {
+    "name": "OnePlus 11 Pro",
+    "description": "Snapdragon 8 Gen 2, 6.7 inch Fluid AMOLED, 5000mAh battery",
+    "price": 79999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus-11/specs/green-img.png",
+    "stock": 14
+  },
+  {
+    "name": "OnePlus Pad",
+    "description": "Dimensity 9000, 11.6 inch 144Hz Display, 9510mAh battery",
+    "price": 43999.0,
+    "category": "Tablets",
+    "brand": "OnePlus",
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/pad/pad-specs.png",
+    "stock": 10
+  },
+  {
+    "name": "OnePlus Nord Watch",
+    "description": "1.78 inch AMOLED, Blood Oxygen & Heart Rate Monitoring, 10-day battery life",
+    "price": 8999.0,
+    "category": "Smart Watches",
+    "brand": "OnePlus",
+    "image": "https://image01-in.oneplus.net/ebp/202210/26/1-m00-46-2b-cpgm7mnylbgaplujaaf7zz0r1ue336.png",
+    "stock": 30
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "description": "A17 Pro Bionic chip, 6.7 inch Super Retina XDR Display, 48MP main camera",
+    "price": 179999.0,
+    "category": "Mobile Phones",
+    "brand": "Apple",
+    "image": "https://m.media-amazon.com/images/I/81dT7CUY6GL._SX679_.jpg",
+    "stock": 5
+  },
+  {
+    "name": "Apple iPad Pro (12.9-inch)",
+    "description": "M2 chip, Liquid Retina XDR display, 2TB storage",
+    "price": 169999.0,
+    "category": "Tablets",
+    "brand": "Apple",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1685969680/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/264230_juwxcm.png?tr=w-480",
+    "stock": 10
+  },
+  {
+    "name": "Apple MacBook Pro 16-inch",
+    "description": "M2 Max chip, 32GB RAM, 1TB SSD, Liquid Retina XDR Display",
+    "price": 279999.0,
+    "category": "Laptops",
+    "brand": "Apple",
+    "image": "https://iplanet.one/cdn/shop/files/MacBook_Pro_16_in_M3_Pro_Max_Space_Black_PDP_Image_Position_1__en-IN_c8087108-0f3d-440e-bf69-e4dfcec7a5b8.jpg?v=1698727315&width=823",
+    "stock": 7
+  },
+  {
+    "name": "realme GT 5G",
+    "description": "Snapdragon 888, 6.43 inch 120Hz Super AMOLED Display, 64MP Triple Camera",
+    "price": 35999.0,
+    "category": "Mobile Phones",
+    "brand": "realme",
+    "image": "https://www.giztop.com/media/catalog/product/cache/dc206057cdd42d7e34b9d36e347785ca/r/e/realme-gt-y_1.jpg",
+    "stock": 20
+  },
+  {
+    "name": "realme Pad X",
+    "description": "Snapdragon 695, 10.95 inch 2K display, 8340mAh battery",
+    "price": 27999.0,
+    "category": "Tablets",
+    "brand": "realme",
+    "image": "https://www.notebookcheck.net/fileadmin/_processed_/webp/Notebooks/News/_nc3/realme_pad_x_2_7-q82-w480-h.webp",
+    "stock": 18
+  },
+  {
+    "name": "OPPO Find X5 Pro",
+    "description": "Snapdragon 8 Gen 1, 6.7 inch AMOLED Display, 80W SuperVOOC charging",
+    "price": 99999.0,
+    "category": "Mobile Phones",
+    "brand": "OPPO",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202202/Oppo_Find_X5_Pro.jpg?size=690:388",
+    "stock": 10
+  },
+  {
+    "name": "OPPO Pad Air",
+    "description": "Snapdragon 680, 10.36 inch Display, 7100mAh battery",
+    "price": 17999.0,
+    "category": "Tablets",
+    "brand": "OPPO",
+    "image": "https://st1.techlusive.in/wp-content/uploads/2023/11/oppo-main-fe-1.jpg?impolicy=Medium_Widthonly&w=640",
+    "stock": 12
+  },
+  {
+    "name": "VIVO X80 Pro",
+    "description": "Snapdragon 8 Gen 1, 6.78 inch AMOLED, ZEISS Optics, 80W fast charging",
+    "price": 88999.0,
+    "category": "Mobile Phones",
+    "brand": "VIVO",
+    "image": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1651807558189/e7db3841bf6db0ac7a6f58948e8ab515.png",
+    "stock": 18
+  },
+  {
+    "name": "VIVO Pad 2",
+    "description": "MediaTek Dimensity 9000+, 12.1 inch 144Hz Display, 10000mAh battery",
+    "price": 44999.0,
+    "category": "Tablets",
+    "brand": "VIVO",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-TJsDVPQ1jynHPM2QEjtdKMUV1uwcnl3aQ&s",
+    "stock": 8
+  },
+  {
+    "name": "Motorola Edge 40 Pro",
+    "description": "Snapdragon 8 Gen 2, 6.67 inch 144Hz OLED Display, 50MP camera",
+    "price": 79999.0,
+    "category": "Mobile Phones",
+    "brand": "motorola",
+    "image": "https://www.assuredzone.com/us/wp-content/uploads/sites/17/2023/04/Motorola-Edge-40-Pro-1.jpg",
+    "stock": 12
+  },
+  {
+    "name": "Lenovo Legion 7i",
+    "description": "12th Gen Intel Core i9, RTX 3080, 16-inch WQXGA Display",
+    "price": 279999.0,
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "image": "https://m.media-amazon.com/images/I/51bCcjOoIEL.jpg",
+    "stock": 5
+  },
+  {
+    "name": "HP Spectre x360",
+    "description": "13th Gen Intel i7, 16GB RAM, 1TB SSD, 13.5-inch OLED Touch Display",
+    "price": 149999.0,
+    "category": "Laptops",
+    "brand": "HP",
+    "image": "https://techstore.co.in/cdn/shop/articles/Hp-Spectre-07.jpg?v=1487510918",
+    "stock": 10
+  },
+  {
+    "name": "Dell XPS 13 Plus",
+    "description": "13th Gen Intel i7, 16GB RAM, 512GB SSD, InfinityEdge Display",
+    "price": 169999.0,
+    "category": "Laptops",
+    "brand": "Dell",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y2Hb9So0WQqA4m2jJLFwjJ3eEvG9pa1XVg&s",
+    "stock": 6
+  },
+  {
+    "name": "Acer Predator Helios 300",
+    "description": "Intel Core i9, RTX 3070, 15.6-inch QHD 165Hz Display",
+    "price": 209999.0,
+    "category": "Laptops",
+    "brand": "Acer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGa8ovLh-YX-Ci6I5u1b5_DYujTsO3vgicXQ&s",
+    "stock": 8
+  },
+  {
+    "name": "Asus ROG Zephyrus G15",
+    "description": "AMD Ryzen 9, RTX 3070, 15.6-inch 165Hz Display",
+    "price": 189999.0,
+    "category": "Laptops",
+    "brand": "Asus",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/computer/e/0/t/ga503rw-ln067ws-gaming-laptop-asus-original-imahfzgzmb3pabfu.jpeg?q=20&crop=false",
+    "stock": 8
+  },
+  {
+    "name": "Sony Xperia 1 V",
+    "description": "Snapdragon 8 Gen 2, 6.5-inch 4K OLED Display, 12MP triple camera",
+    "price": 119999.0,
+    "category": "Mobile Phones",
+    "brand": "sony",
+    "image": "https://images-cdn.ubuy.co.in/65ec3d04c9cee052fa10870b-sony-xperia-1-v-xq-dq72-5g-12-256gb.jpg",
+    "stock": 15
+  },
+  {
+    "name": "NoiseFit Endure Smartwatch",
+    "description": "1.28 inch display, Blood Oxygen Monitoring, 100+ Sports Modes",
+    "price": 3499.0,
+    "category": "Smart Watches",
+    "brand": "Noise",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXc9HWvt7u8IoJHhR8okoC8bY_wY38BT_O5A&s",
+    "stock": 40
+  },
+  {
+    "name": "Amazfit GTR 4",
+    "description": "1.43 inch AMOLED, GPS, Alexa Built-in, 14-day battery life",
+    "price": 17999.0,
+    "category": "Smart Watches",
+    "brand": "Amazfit",
+    "image": "https://www.irisimo.com/files/product/50454/AMAZFIT-GTR-4-Vintage-Brown-Leather-A2166-VBL.jpg",
+    "stock": 22
+  },
+  {
+    "name": "Fire-Boltt Visionary",
+    "description": "1.78 inch AMOLED, Bluetooth calling, SpO2 & Heart Rate Monitor",
+    "price": 6499.0,
+    "category": "Smart Watches",
+    "brand": "Fire boltt",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689152512/Croma%20Assets/Communication/Wearable%20Devices/Images/273204_0_whvier.png?tr=w-600",
+    "stock": 30
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "description": "6.4 inch FHD+ Super AMOLED, Exynos 1380, 5000mAh battery",
+    "price": 27999.0,
+    "category": "Mobile Phones",
+    "brand": "Samsung",
+    "image": "https://www.reliancedigital.in/medias/Samsung-A54-Mob-493839157-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNTIyM3xpbWFnZS9qcGVnfGltYWdlcy9oNDIvaDUzLzEwMDUzODE3NzYxODIyLmpwZ3xiNzE5ODQ3YmM5ZDg0NDk2ZTEzM2FiMjI1MzVkOWY5YTczOGQ3MWJjMDk1NTQyZDg2YWZkMDUwMzJhNGQzNWQy",
+    "stock": 15
+  },
+  {
+    "name": "Xiaomi 12 Pro",
+    "description": "Snapdragon 8 Gen 1, 6.73 inch AMOLED, 4600mAh battery",
+    "price": 79999.0,
+    "category": "Mobile Phones",
+    "brand": "Xiaomi",
+    "image": "https://m.media-amazon.com/images/I/71xMba-NW-L.jpg",
+    "stock": 10
+  },
+  {
+    "name": "OnePlus 10T",
+    "description": "Snapdragon 8+ Gen 1, 6.7 inch AMOLED, 4800mAh battery",
+    "price": 54999.0,
+    "category": "Mobile Phones",
+    "brand": "OnePlus",
+    "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/50596467-4a60-441b-9b30-a8f48bf7a07622040704_416x416.jpg",
+    "stock": 12
+  },
+  {
+    "name": "realme GT 2 Pro",
+    "description": "Snapdragon 8 Gen 1, 6.7 inch 2K AMOLED, 5000mAh battery",
+    "price": 64999.0,
+    "category": "Mobile Phones",
+    "brand": "realme",
+    "image": "https://s3b.cashify.in/gpro/uploads/2021/10/07162333/realme-gt-2-pro-5g-front.jpg",
+    "stock": 10
+  },
+  {
+    "name": "OPPO Reno 8 Pro",
+    "description": "Dimensity 8100, 6.7 inch AMOLED, 4500mAh battery",
+    "price": 39999.0,
+    "category": "Mobile Phones",
+    "brand": "OPPO",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-lnl_ZbDG6wJy09pO0YwTftVq_NMSx82nA&s",
+    "stock": 18
+  },
+  {
+    "name": "VIVO X80",
+    "description": "MediaTek Dimensity 9000, 6.78 inch AMOLED, 4500mAh battery",
+    "price": 59999.0,
+    "category": "Mobile Phones",
+    "brand": "VIVO",
+    "image": "https://phonewale.cdn.betanet.in/pwweb/uploads/2022/12/Vivo_X80_ProCosmic_Black_Phonewale-Fonebook-Ahmedabad-Surat-Rajkot-Baroda-Gujarat-Maharastra-Chennai-Mumbai-India-Lattest-smart-phones-new1.png",
+    "stock": 10
+  },
+  {
+    "name": "Motorola Edge 30",
+    "description": "Snapdragon 778G+, 6.5 inch OLED, 4400mAh battery",
+    "price": 29999.0,
+    "category": "Mobile Phones",
+    "brand": "Motorola",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/6/f/k/-original-imagg34whmtp6p5s.jpeg?q=90&crop=false",
+    "stock": 15
+  },
+  {
+    "name": "Lenovo Legion Phone Duel 2",
+    "description": "Snapdragon 888, 6.92 inch AMOLED, 5500mAh battery",
+    "price": 59999.0,
+    "category": "Mobile Phones",
+    "brand": "Lenovo",
+    "image": "https://p3-ofp.static.pub/fes/cms/2023/01/19/g63tay10x5963us7i9puo0ur79eol1047537.png",
+    "stock": 10
+  },
+  {
+    "name": "HP Elite x3",
+    "description": "Snapdragon 820, 5.96 inch AMOLED, 4150mAh battery",
+    "price": 59999.0,
+    "category": "Mobile Phones",
+    "brand": "HP",
+    "image": "https://drop.ndtv.com/TECH/product_database/images/222201611552AM_635_hp_elite_x3_official_1.jpeg",
+    "stock": 8
+  },
+  {
+    "name": "Sony Xperia 1 IV",
+    "description": "Snapdragon 8 Gen 1, 6.5 inch 4K HDR OLED, 5000mAh battery",
+    "price": 109999.0,
+    "category": "Mobile Phones",
+    "brand": "Sony",
+    "image": "https://alphauniverseglobal.media.zestyio.com/Sony-Alpha-Universe-Xperia-1-IV-_mmWave_group_purple.jpg?height=300&fit=bounds",
+    "stock": 10
+  },
+  {
+    "name": "Garmin Venu 2",
+    "description": "1.3 inch AMOLED, GPS, 11-day battery life",
+    "price": 49999.0,
+    "category": "Smart Watches",
+    "brand": "Garmin",
+    "image": "https://www.garmin.co.in/m/in/g/products/venu-2-black-pd-01-lg.jpg",
+    "stock": 15
+  },
+  {
+    "name": "Fossil Gen 6",
+    "description": "1.28 inch AMOLED, Snapdragon Wear 4100, 24-hour battery life",
+    "price": 22999.0,
+    "category": "Smart Watches",
+    "brand": "Fossil",
+    "image": "https://fossil.scene7.com/is/image/FossilPartners/FTW7068_main?$sfcc_fos_large$",
+    "stock": 10
+  },
+  {
+    "name": "Amazfit GTS 2",
+    "description": "1.65 inch AMOLED, 14-day battery life, 90+ sports modes",
+    "price": 12999.0,
+    "category": "Smart Watches",
+    "brand": "Amazfit",
+    "image": "https://in.amazfit.com/cdn/shop/products/amazfit-gts-2-with-gps-spo2-sensor-amoled-display-3gb-music-storage-782816.jpg?v=1701611929",
+    "stock": 20
+  },
+  {
+    "name": "Fire-Boltt Phoenix",
+    "description": "1.3 inch HD Display, Bluetooth Calling, 7-day battery life",
+    "price": 3499.0,
+    "category": "Smart Watches",
+    "brand": "Fire boltt",
+    "image": "https://m.media-amazon.com/images/I/819DWQLgjKL.jpg",
+    "stock": 30
+  },
+  {
+    "name": "NoiseFit Halo",
+    "description": "1.39 inch AMOLED, Blood Oxygen Monitor, 7-day battery life",
+    "price": 2999.0,
+    "category": "Smart Watches",
+    "brand": "Noise",
+    "image": "https://cpimg.tistatic.com/09577329/b/4/NoiseFit-Halo-1-43-Inch-Amoled-Display-Smart-Watch.jpg",
+    "stock": 35
+  },
+  {
+    "name": "Amazfit Bip 3",
+    "description": "1.43 inch HD Display, 14-day battery life, Alexa Built-in",
+    "price": 3999.0,
+    "category": "Smart Watches",
+    "brand": "Amazfit",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1703235602/Croma%20Assets/Wearable/Wearable%20Devices/Images/257068_oqtbbp.png?tr=w-600",
+    "stock": 40
+  },
+  {
+    "name": "Samsung Galaxy Watch Active 2",
+    "description": "1.4 inch AMOLED, Heart Rate Monitoring, GPS",
+    "price": 24999.0,
+    "category": "Smart Watches",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/latin-en-galaxy-watch-active2-r820-sm-r820nzkatpa-frontblack-252783773?$650_519_PNG$",
+    "stock": 15
+  },
+  {
+    "name": "Huawei Watch GT 3",
+    "description": "1.43 inch AMOLED, 14-day battery life, SpO2 monitoring",
+    "price": 15999.0,
+    "category": "Smart Watches",
+    "brand": "Huawei",
+    "image": "https://s3b.cashify.in/gpro/uploads/2022/04/12024043/huawei-watch-gt-3-46mm-front.jpg",
+    "stock": 10
+  },
+  {
+    "name": "Withings Steel HR",
+    "description": "Activity and Sleep Tracking, 25-day battery life",
+    "price": 19999.0,
+    "category": "Smart Watches",
+    "brand": "Withings",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DxGbhXJuWwslp7l_tPz4lvzPwF2mCj4kpQ&s",
+    "stock": 12
+  },
+  {
+    "name": "TicWatch Pro 3",
+    "description": "1.4 inch AMOLED, Snapdragon Wear 4100, 2-30 days battery life",
+    "price": 22999.0,
+    "category": "Smart Watches",
+    "brand": "Mobvoi",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/ky90scw0/smartwatch/e/i/7/22-android-ios-wh1201b-mobvoi-yes-original-imagagurfz9e5yvh.jpeg?q=90&crop=false",
+    "stock": 10
+  },
+  {
+    "name": "Apple iPad Mini 6",
+    "description": "A15 Bionic, 8.3 inch Liquid Retina, 64GB storage",
+    "price": 45999.0,
+    "category": "Tablets",
+    "brand": "Apple",
+    "image": "https://www.jiomart.com/images/product/original/491997825/apple-ipad-mini-6-2021-21-08-cm-8-3-inch-wi-fi-tablet-64-gb-space-grey-mk7m3hn-a-digital-o491997825-p590798798-3-202109210643.jpeg?im=Resize=(420,420)",
+    "stock": 15
+  },
+  {
+    "name": "Microsoft Surface Pro 8",
+    "description": "Intel Core i5, 13 inch PixelSense, 16GB RAM, 512GB SSD",
+    "price": 109999.0,
+    "category": "Tablets",
+    "brand": "Microsoft",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8rk-6KvZEdP3KNmgI8S-HT0UD2YYkO4_oQ&s",
+    "stock": 10
+  },
+  {
+    "name": "Lenovo Tab P11",
+    "description": "11 inch 2K Display, Snapdragon 662, 7700mAh battery",
+    "price": 19999.0,
+    "category": "Tablets",
+    "brand": "Lenovo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBej8Wj3cEbuBDHRCAvj_GONf23Z-pfdKgFg&s",
+    "stock": 20
+  },
+  {
+    "name": "Xiaomi Pad 5 Pro",
+    "description": "Snapdragon 870, 11 inch 2.5K, 8600mAh battery",
+    "price": 35999.0,
+    "category": "Tablets",
+    "brand": "Xiaomi",
+    "image": "https://www.androidpimp.com/wp-content/uploads/2022/09/Xiaomi-Pad-5-Pro-12.4.png.webp",
+    "stock": 15
+  },
+  {
+    "name": "OPPO Pad 2",
+    "description": "Dimensity 9000, 11.6 inch 2.8K Display, 8350mAh battery",
+    "price": 29999.0,
+    "category": "Tablets",
+    "brand": "OPPO",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqJLhanSn4gZBIhk9g3onAQTFI_Eg4n9pxw&s",
+    "stock": 10
+  },
+  {
+    "name": "realme Pad 2",
+    "description": "Dimensity 8100, 11 inch WUXGA Display, 8360mAh battery",
+    "price": 24999.0,
+    "category": "Tablets",
+    "brand": "realme",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnxkXKHUn2bLlu539W5h8VHYYUluF-GRY2g&s",
+    "stock": 15
+  },
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "description": "Snapdragon 8 Gen 1, 11 inch LTPS TFT, 8000mAh battery",
+    "price": 64999.0,
+    "category": "Tablets",
+    "brand": "Samsung",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x706bzsainu/gallery/in-galaxy-tab-s8-5g-x706-sm-x706bzsainu-534249950?$650_519_PNG$",
+    "stock": 12
+  },
+  {
+    "name": "Asus ROG Flow Z13",
+    "description": "Intel Core i9, 13.4 inch FHD, 16GB RAM, 1TB SSD",
+    "price": 179999.0,
+    "category": "Tablets",
+    "brand": "Asus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLXdl4w2PIEsFcFz1mKPkbq4_Q6R6B0GmRPA&s",
+    "stock": 10
+  },
+  {
+    "name": "HP Chromebook x2",
+    "description": "Intel Core m3, 12.3 inch FHD, 4GB RAM, 32GB eMMC",
+    "price": 34999.0,
+    "category": "Tablets",
+    "brand": "HP",
+    "image": "https://www.hpshowroomchennai.in/images/LAPTOP/hp-chromebook-x2-8gb-ram-laptop.jpg",
+    "stock": 15
+  },
+  {
+    "name": "Lenovo Yoga Tab 11",
+    "description": "MediaTek Helio G90T, 11 inch 2K Display, 7500mAh battery",
+    "price": 29999.0,
+    "category": "Tablets",
+    "brand": "Lenovo",
+    "image": "https://p4-ofp.static.pub/ShareResource/na/products/yoga/560x450/lenovo-yoga-tab-11-08.png",
+    "stock": 10
+  },
+  {
+    "name": "Dell XPS Desktop",
+    "description": "Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA GeForce GTX 1660",
+    "price": 109999.0,
+    "category": "Desktops",
+    "brand": "Dell",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/xps-desktops/xps-8960-tracer/media-gallery/black/xs8960-csy-00015rf-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=521&qlt=100,1&resMode=sharp2&size=521,804&chrss=full",
+    "stock": 10
+  },
+  {
+    "name": "HP Omen 30L",
+    "description": "Intel Core i7, 16GB RAM, 1TB SSD, NVIDIA RTX 3060",
+    "price": 139999.0,
+    "category": "Desktops",
+    "brand": "HP",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSk0PvuPU3URtHj12FYXtxyeCpbSTRVlnhQ&s",
+    "stock": 8
+  },
+  {
+    "name": "Lenovo IdeaCentre 5",
+    "description": "AMD Ryzen 5 5600G, 16GB RAM, 512GB SSD",
+    "price": 64999.0,
+    "category": "Desktops",
+    "brand": "Lenovo",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/1/VI/OW/EH/77918833/lenovo-desktop-4-500x500.jpg",
+    "stock": 15
+  },
+  {
+    "name": "Acer Aspire TC",
+    "description": "Intel Core i5, 12GB RAM, 512GB SSD, Integrated Graphics",
+    "price": 54999.0,
+    "category": "Desktops",
+    "brand": "Acer",
+    "image": "https://m.media-amazon.com/images/I/61qVSAxGWQL.jpg",
+    "stock": 20
+  },
+  {
+    "name": "Asus ROG Strix GA15",
+    "description": "AMD Ryzen 7 5800X, 16GB RAM, 1TB SSD, NVIDIA RTX 3060",
+    "price": 109999.0,
+    "category": "Desktops",
+    "brand": "Asus",
+    "image": "https://dlcdnwebimgs.asus.com/gain/2E5DE66F-2D2C-459A-AC2F-2542D4389ECC/w1000/h732",
+    "stock": 10
+  },
+  {
+    "name": "Apple Mac Mini",
+    "description": "Apple M1, 8GB RAM, 256GB SSD",
+    "price": 69999.0,
+    "category": "Desktops",
+    "brand": "Apple",
+    "image": "https://www.apple.com/v/mac-mini/t/images/meta/mac-mini_overview__164prubpwpee_og.jpg",
+    "stock": 15
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "description": "8-Core CPU, 16GB RAM, 825GB SSD, DualSense Controller",
+    "price": 49999.0,
+    "category": "Desktops",
+    "brand": "Sony",
+    "image": "https://www.sathya.store/img/product/ojqypr02utVCzLA8.jpg",
+    "stock": 20
+  },
+  {
+    "name": "Acer Predator Orion 3000",
+    "description": "Intel Core i7, 16GB RAM, 1TB SSD, NVIDIA RTX 3070",
+    "price": 149999.0,
+    "category": "Desktops",
+    "brand": "Acer",
+    "image": "https://m.media-amazon.com/images/I/81G+R42MtTL.jpg",
+    "stock": 8
+  },
+  {
+    "name": "MSI Trident 3",
+    "description": "Intel Core i5, 16GB RAM, 1TB SSD, NVIDIA GTX 1660",
+    "price": 84999.0,
+    "category": "Desktops",
+    "brand": "MSI",
+    "image": "https://asset.msi.com/resize/image/global/product/product_5_20200430090514_5eaa244a51b97.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+    "stock": 10
+  },
+  {
+    "name": "Corsair One i200",
+    "description": "Intel Core i9, 32GB RAM, 2TB SSD, NVIDIA RTX 3080",
+    "price": 249999.0,
+    "category": "Desktops",
+    "brand": "Corsair",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBbz_qWxNuQy3MUAxV4aCsVRLUFn6JbT8VA&s",
+    "stock": 5
+  },
+  {
+    "name": "Asus VivoBook 15",
+    "description": "Intel Core i5, 15.6 inch FHD, 8GB RAM, 512GB SSD",
+    "price": 49999.0,
+    "category": "Laptops",
+    "brand": "Asus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b_NgH7yW-AtPQXxLgweUKC4zeien2WjZVA&s",
+    "stock": 15
+  },
+  {
+    "name": "HP Envy 14",
+    "description": "Intel Core i7, 14 inch FHD, 16GB RAM, 1TB SSD",
+    "price": 89999.0,
+    "category": "Laptops",
+    "brand": "HP",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fqjlPbv_9_Q_0_lVwfJdS1_whANsrrZPzw&s",
+    "stock": 10
+  },
+  {
+    "name": "Dell G5 15",
+    "description": "Intel Core i5, 15.6 inch FHD, 8GB RAM, 512GB SSD, GTX 1650",
+    "price": 79999.0,
+    "category": "Laptops",
+    "brand": "Dell",
+    "image": "https://www.dellstore.com/pub/media/catalog/product/cache/74ae05ef3745aec30d7f5a287debd7f5/5/5/5500_1_16.jpeg",
+    "stock": 12
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "description": "Intel Core i7, 14 inch FHD, 16GB RAM, 1TB SSD",
+    "price": 189999.0,
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "image": "https://p1-ofp.static.pub/fes/cms/2023/04/28/iu6t7jqpekoy7o76vbn0c9a9b7rbsb543440.png",
+    "stock": 8
+  },
+  {
+    "name": "Apple MacBook Pro 16",
+    "description": "Apple M1 Pro, 16 inch Liquid Retina, 16GB RAM, 512GB SSD",
+    "price": 199999.0,
+    "category": "Laptops",
+    "brand": "Apple",
+    "image": "https://www.maplestore.in/cdn/shop/files/MacBook_Pro_16_in_M3_Pro_Max_Space_Black_PDP_Image_Position_1__en-IN_bd6f638a-3983-4322-a6fa-a18a67d5487c.jpg?v=1701917340&width=823",
+    "stock": 10
+  },
+  {
+    "name": "Xiaomi Mi Notebook Pro",
+    "description": "Intel Core i7, 15.6 inch 2.5K, 16GB RAM, 1TB SSD",
+    "price": 75999.0,
+    "category": "Laptops",
+    "brand": "Xiaomi",
+    "image": "https://i.gadgets360cdn.com/products/large/minotebookpro-db-954x800-1571730230.jpg?downsize=*:360",
+    "stock": 15
+  },
+  {
+    "name": "Acer Aspire 7",
+    "description": "AMD Ryzen 5, 15.6 inch FHD, 8GB RAM, 512GB SSD",
+    "price": 54999.0,
+    "category": "Laptops",
+    "brand": "Acer",
+    "image": "https://i.gadgets360cdn.com/products/large/Acer-Aspire-7-DB-749x800-1614338241.jpg",
+    "stock": 20
+  },
+  {
+    "name": "OnePlus 9R Laptop",
+    "description": "Intel Core i5, 15.6 inch FHD, 16GB RAM, 512GB SSD",
+    "price": 69999.0,
+    "category": "Laptops",
+    "brand": "OnePlus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9n0IG0zajGTzYWRf8lDj-KITQuLkRX5sepA&s",
+    "stock": 10
+  },
+  {
+    "name": "VIVO Book 14",
+    "description": "Intel Core i5, 14 inch FHD, 8GB RAM, 512GB SSD",
+    "price": 45999.0,
+    "category": "Laptops",
+    "brand": "VIVO",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbF36jXYoiEFXdfBWJ_RyiFirqqK6SvyJ7uQ&s",
+    "stock": 15
+  },
+  {
+    "name": "Dell Latitude 7420",
+    "description": "Intel Core i7, 14 inch FHD, 16GB RAM, 512GB SSD",
+    "price": 139999.0,
+    "category": "Laptops",
+    "brand": "Dell",
+    "image": "https://m.media-amazon.com/images/I/51KMRXQNg3L.jpg",
+    "stock": 5
+  }
+]
