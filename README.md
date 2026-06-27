@@ -1,6 +1,8 @@
- E-Commerce Platform for Electronic Appliances
+# E-Commerce Platform for Electronic Appliances (Techbaazar)
 
- Project Overview
+🚀 **[Live Demo Website](https://e-commerce-ten-ebon-42.vercel.app/)**
+
+## Project Overview
 
 This project focuses on developing an e-commerce platform Techbaazar dedicated to electronic appliances, designed to enhance user experience, streamline operations, and drive revenue growth for the company. The platform addresses the need for a modern, digital shopping solution tailored specifically to electronics customers.
 
