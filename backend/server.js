@@ -17,9 +17,24 @@ connectDB();
 
 // Middleware
 app.use(express.json());
+
+const allowedOrigins = [
+  "http://localhost:5173",
+  "http://localhost:5174",
+  "https://e-commerce-ten-ebon-42.vercel.app"
+];
+
 app.use(
   cors({
-    origin: ["http://localhost:5173", "http://localhost:5174"], // Support both ports
+    origin: function (origin, callback) {
+      // Allow requests with no origin (like mobile apps, curl, or tool requests)
+      if (!origin) return callback(null, true);
+      if (allowedOrigins.indexOf(origin) !== -1 || origin.endsWith(".vercel.app")) {
+        return callback(null, true);
+      } else {
+        return callback(new Error("Not allowed by CORS"));
+      }
+    },
     methods: "POST, GET, PATCH, PUT, DELETE, HEAD",
     credentials: true,
   })
