@@ -149,7 +149,7 @@ A [run-project.bat](file:///C:/Users/SACHIN%20MANN/Documents/GitHub/E-commerce/r
   ```
   *(On Windows/PowerShell, if script execution is disabled, use `npm.cmd run dev`)*
   
-  The website will open and run at: [http://localhost:5173/](http://localhost:5173/)
+  The website will open and run at: [http://localhost:5173/](http://localhost:5173/) (or the live online URL: [https://e-commerce-ten-ebon-42.vercel.app/](https://e-commerce-ten-ebon-42.vercel.app/))
 
  Testing & Implementation
 
